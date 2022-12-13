@@ -7,11 +7,11 @@
 
 <h2>Links:</h2>
 Link to page:
-<a href="https://khernandez0810.github.io/TriviaTime/"> Link to webpage</a>
+<a href="https://khernandez0810.github.io/Daily-Planner/"> Link to webpage</a>
 
 Link to Repository:
-<a href="https://github.com/khernandez0810/TriviaTime"> Link to repository</a>
+<a href="https://github.com/khernandez0810/Daily-Planner"> Link to repository</a>
 
 
 Screenshot example of page upon loading: 
-<img src="./assets/images/Trivia.pic">
+<img src="./assets/images/dailyPlannerImg">
