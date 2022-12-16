@@ -1,6 +1,16 @@
+*{
+  background-color:antiquewhite;
+}
+
+.lead{
+  font-size:25px;
+}
+
+
 body {
-    font-family: 'Open Sans', sans-serif;
+  font-family: 'Righteous', cursive;
     font-size: 16px;
+    background-color:antiquewhite;
   }
   
   textarea {
@@ -14,6 +24,8 @@ body {
   
   .description {
     white-space: pre-wrap;
+    color: #ffffff;
+    font-size: large;
   }
   
   .time-block {
@@ -25,23 +37,26 @@ body {
   }
   
   .hour {
-    background-color: #ffffff;
-    color: #000000;
+    background-color:darksalmon;
+    color:#ffffff;
     border-top: 1px dashed #000000;
+    border-top-left-radius: 15px;
+    border-bottom-left-radius: 15px;
+    font-size: large;
   }
   
   .past {
-    background-color: blue;
+    background-color:firebrick;
     color: white;
   }
   
   .present {
-    background-color: #ff6961;
+    background-color:cadetblue;
     color: white;
   }
   
   .future {
-    background-color: #77dd77;
+    background-color:mediumseagreen;
     color: white;
   }
   
@@ -49,12 +64,28 @@ body {
     border-left: 1px solid black;
     border-top-right-radius: 15px;
     border-bottom-right-radius: 15px;
-    background-color: #06aed5;
+    background-color:darksalmon;
     color: white;
   }
   
   .saveBtn i:hover {
-    font-size: 20px;
+    font-size: 30px;
     transition: all 0.3s ease-in-out;
   }
-  
+
+  #clear{
+padding:15px;
+margin-top:15px;
+border-radius: 25px;
+background-color:darkred;
+font-size: large;
+color:white
+  }
+
+  i{
+    background-color:transparent;
+
+  }
+  header{
+    border-bottom: 20px solid black;
+  }

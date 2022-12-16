@@ -14,4 +14,4 @@ Link to Repository:
 
 
 Screenshot example of page upon loading: 
-<img src="./assets/images/dailyPlannerImg">
+<img src="./assets/images/dailyPlannerImg2.png">
